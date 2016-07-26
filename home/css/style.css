@@ -1,0 +1,89 @@
+
+/*-----------===============[[[[[[[[[[ MEMORY ]]]]]]]]]]]]=============----------------*/
+
+.content{
+	width:466px;
+	height: 466px;
+	margin:0 auto;
+	padding:0 auto;
+	margin-top:100px;
+
+}
+.box1{
+	width: 50%;
+	height: 50%;
+	background:url('../img/verde.png')no-repeat;
+	background-size: 100%;
+	position: relative;
+	float:left;
+}
+.box2{
+	width: 50%;
+	height: 50%;
+	background:url('../img/red.png')no-repeat;
+	background-size: 100%;
+	float:left;
+	position: relative;
+}
+.box3{
+	width: 50%;
+	height: 50%;
+	background:url('../img/blue.png')no-repeat;
+	background-size: 100%;
+	float:left;
+	margin-top: -2px;
+	position: relative;
+}
+.box4{
+	width: 50%;
+	height: 50%;
+	background:url('../img/yello.png')no-repeat;
+	background-size: 100%;
+	float:left;
+	margin-top: -2px;
+	position: relative;
+}
+.box5{
+	width:120px;
+	height:120px;
+	background-color: #999;
+	position: relative;
+	top:170px;
+	-webkit-transform:rotate(45deg);
+}
+a.select1{
+	width: 50%;
+	height: 50%;
+	cursor: pointer;
+	position: relative;
+}
+a.select1:hover{
+	opacity:0.5;
+}
+a.select2{
+	width: 50%;
+	height: 50%;
+	cursor: pointer;
+	position: relative;
+}
+a.select2:hover{
+	opacity:0.5;
+}
+a.select3{
+	width: 50%;
+	height: 50%;
+	cursor: pointer;
+	position: relative;
+}
+a.select3:hover{
+	opacity:0.5;
+}
+a.select4{
+	width: 50%;
+	height: 50%;
+	cursor: pointer;
+	position: relative;
+}
+a.select4:hover{
+	opacity:0.5;
+}
